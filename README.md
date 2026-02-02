@@ -1,7 +1,7 @@
 # WSD-Class-Practice
 
 I’m Mackenzie Levitt, a graduate student completing my second semester in the CS grad program. I’m very excited to take this course and develop my full-stack skills, but first a little about me.  
- I attended New Paltz for my undergraduate degree, where I was a Digital Media Production major (with a focus on post-production editing) and a computer science minor. In my free time I enjoy walking/hiking in nature, I even recently took to the coast of Washington state where I spent a weekend hiking in national parks. 
+ I attended New Paltz for my undergraduate degree, where I was a Digital Media Production major (with a focus on post-production editing) and a computer science minor. In my free time I enjoy walking/hiking in nature, I even recently took a trip to the coast of Washington state where I spent a weekend hiking in national parks. 
   
 As a computer science minor, I was able to take CS1, CS2, CS3, and Cybersecurity, but I have recently completed Database Management, Discrete Structures, Network Security, and Programming and Data Structures in my time in the graduate program. I am also currently a TR for Computer Science 1 and Computer Science 3.   
 Most of my experience has been with security-based systems, but I want to delve deeper into website creation and maintaining. I am currently enrolled in Computer Vision and Web and Database Programming, which I plan to utilize to the fullest to help develop my project for this course. I want to use the skills I learn from Web Server Development to create projects that improve quality and ease of life for many people.   
